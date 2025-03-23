@@ -1,1 +1,14 @@
-{"tickets":[{"id":"102dbeb3-1028-4272-b427-dffcfcb2c11a","equipment":"Computador","description":"Computador fica reiniciando","user_name":"José","status":"closed","created_at":"2025-03-21T17:17:12.965Z","updated_at":"2025-03-21T17:17:12.965Z","solution":"Trcomaos a memória do computador que estava causando o problema "}]}
+{
+  "tickets": [
+    {
+      "id": "102dbeb3-1028-4272-b427-dffcfcb2c11a",
+      "equipment": "Computador",
+      "description": "Computador fica reiniciando",
+      "user_name": "José",
+      "status": "closed",
+      "created_at": "2025-03-21T17:17:12.965Z",
+      "updated_at": "2025-03-21T17:17:12.965Z",
+      "solution": "Trcomaos a memória do computador que estava causando o problema "
+    }
+  ]
+}
