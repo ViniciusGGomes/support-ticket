@@ -110,7 +110,7 @@ Esta é uma API simples para gerenciar tickets de suporte técnico, permitindo a
 
 ## Licença MIT
 
-Copyright (c) [Ano] [Seu Nome]
+Copyright (c) [2025] [Vinícius Gomes]
 
 Permissão para usar, copiar, modificar e distribuir este software sem restrições,
 desde que o aviso de direitos autorais e este texto sejam incluídos em todas as cópias.
