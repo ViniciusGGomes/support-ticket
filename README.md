@@ -108,7 +108,7 @@ Esta é uma API simples para gerenciar tickets de suporte técnico, permitindo a
 - **DELETE /tickets/:id**: Remove um ticket.
   - **Resposta**: `204 No Content`
 
-##Licença MIT
+## Licença MIT
 
 Copyright (c) [Ano] [Seu Nome]
 
